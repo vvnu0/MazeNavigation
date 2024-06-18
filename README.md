@@ -11,11 +11,11 @@ _Finding the special ring_
 _Collecting the max amount of treasure_
 
 
-## Learning Objectives
+### Learning Objectives
 - Implement and optimize graph traversal algorithms.
 - Manage and synchronize concurrent tasks in Java.
 - Enhance algorithm efficiency using advanced data structures like heaps.
-## Features
+### Features
 - _Graph Navigation_: Implement Dijkstra’s algorithm to find the shortest paths within the sewer system.
 - _Concurrency Management_: Efficient synchronization in a multi-threaded environment to manage GUI animations and logical computations effectively.
 - _Treasure Collection Simulation_: After finding the ring, collect as much treasure as possible while navigating to the exit.
